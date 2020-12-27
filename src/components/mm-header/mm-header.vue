@@ -2,8 +2,8 @@
   <!--头部-->
   <header class="mm-header">
     <h1 class="header">
-      <a href="https://github.com/maomao1996/Vue-mmPlayer" target="_blank">
-        mmPlayer 在线音乐播放器
+      <a href="https://github.com/mpif/Vue-mmPlayer" target="_blank">
+        vue音乐播放器
       </a>
     </h1>
     <dl class="user">

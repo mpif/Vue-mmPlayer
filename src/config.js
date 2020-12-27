@@ -7,7 +7,11 @@ export const VERSION = process.env.VUE_APP_VERSION
  * 如需要修改自定义歌单的请修改
  * @type {number}
  */
-export const defaultSheetId = 3778678
+//export const defaultSheetId = 3778678
+// 网易云音乐-歌单《我喜欢的音乐》
+export const defaultSheetId = 2138508004
+// 音乐播放器名称
+export const playerName = 'vue音乐播放器'
 
 // 默认分页数量
 export const defaultLimit = 30
